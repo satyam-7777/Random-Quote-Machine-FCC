@@ -8,6 +8,7 @@ also changes the page's primary color.
 
 **Live URL:**\
 Note: Open the CodeSandbox link in Incognito/Private mode for the project to open properly.
+
 <https://codesandbox.io/p/sandbox/fcc-random-quote-machine-n2943w>
 
 ## GitHub Repository
