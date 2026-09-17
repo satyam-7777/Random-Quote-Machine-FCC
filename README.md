@@ -12,7 +12,7 @@ also changes the page's primary color.
 ## GitHub Repository
 
 **GitHub:**\
-`<ADD_GITHUB_REPOSITORY_URL>`
+`https://github.com/satyam-7777/Random-Quote-Machine-FCC`
 
 ## Features
 
